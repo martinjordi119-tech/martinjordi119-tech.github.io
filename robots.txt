@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /data/
 Sitemap: https://martinjordi119-tech.github.io/sitemap.xml
